@@ -1,5 +1,3 @@
-[![Profile Banner](https://avatars.githubusercontent.com/u/Setthink?v=4)](https://github.com/Setthink)
-
 # Hi, I'm Setthink 👋
 
 **Fullstack Engineer @ Eczacıbaşı Evital**  
